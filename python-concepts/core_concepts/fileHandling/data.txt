@@ -1,0 +1,8 @@
+emp_id, emp_name, emp_role
+1, ragu, developer
+2, gandhi, designer
+3, daniel, tester
+4,Test,Internwelcome file path reading-1
+welcome file path reading-2
+welcome file path reading-3 
+welcome file path reading-4 
