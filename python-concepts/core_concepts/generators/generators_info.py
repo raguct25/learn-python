@@ -19,6 +19,4 @@
 
 * yield is like a return statement. if once called never next line excute. wait for another next() command
 
-
-
 """
