@@ -1,3 +1,5 @@
+"""
+
 * The Pythion is a high level :
 
     - Designed to be realtively human readable and Writable , with syantax adn semantics. it's closer to human language
@@ -30,7 +32,17 @@
 
     - comments are used to explain code 
     - Single line comments - use # key
-    - Multilibe comments - use trible quotes  ''' or """
+    - Multilibe comments - use trible quotes   single or double
+
+* python can write procedural and oops and functions programming 
 
 
 
+"""
+
+
+# | Paradigm              | Description                         | Use Case                       |
+# | --------------------- | ----------------------------------- | ------------------------------ |
+# | Procedural            | Top-down, step-by-step              | Simple scripts, utilities      |
+# | Object-Oriented (OOP) | Organize code using classes/objects | Apps, tools, complex systems   |
+# | Functional            | Stateless, function-based           | Data transformation, pipelines |
